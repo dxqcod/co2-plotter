@@ -65,8 +65,8 @@
 <br/>
 
 <p align="center">
-  <a href="docs/photos/4.jpg">
-    <img src="docs/photos/4.jpg" width="700" />
+  <a href="hardware/schematic.jpg">
+    <img src="hardware/schematic.jpg" width="700" />
   </a>
 </p>
 
