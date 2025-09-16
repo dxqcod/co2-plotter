@@ -116,7 +116,7 @@
 ## 🚀 Быстрый старт
 1. Скопируйте `firmware/CO2_Plotter.ino` в Arduino IDE.
 2. Установите библиотеки (Wire, Adafruit_SSD1306, AccelStepper и Servo). Смотри `firmware/libs_notes.md`.
-3. Подключите устройство согласно `hardware/wiring.txt` и `hardware/schematic.svg`.
+3. Подключите устройство согласно `hardware/wiring.txt` и `hardware/schematic.jpg`.
 4. Загрузите скетч в плату и откройте Serial Monitor (9600) для отладки.
 ---
 
