@@ -55,8 +55,8 @@
  
 
 <p align="center">
-  <a href="docs/photos/5.jpg">
-    <img src="docs/photos/5.jpg" width="700" />
+  <a href="firmware/algoritm.jpg.jpg">
+    <img src="firmware/algoritm.jpg" width="700" />
   </a>
 </p>
 
