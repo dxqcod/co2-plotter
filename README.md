@@ -20,7 +20,7 @@
 ├─ LICENSE                   # MIT license (ниже — текст)
 ├─ .gitignore
 ├─ hardware/
-│  ├─ schematic.svg          # схема подключения (рисунок)
+│  ├─ schematic.jpg          # схема подключения (рисунок)
 │  ├─ wiring.txt             # текстовое описание соединений
 │ 
 ├─ firmware/
