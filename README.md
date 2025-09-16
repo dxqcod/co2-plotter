@@ -16,21 +16,21 @@
 ## Структура репозитория
 ```
 │  co2-plotter/              # корень репозитория
-├─ README.md                 # главный README (ниже — готовый текст)
-├─ LICENSE                   # MIT license (ниже — текст)
+├─ README.md                 # главный README
+│
 ├─ .gitignore
 ├─ hardware/
-│  ├─ schematic.jpg          # схема подключения (рисунок)
+│  ├─ schematic.jpg          # схема подключения
 │  ├─ wiring.txt             # текстовое описание соединений
 │ 
 ├─ firmware/
-│  ├─ CO2_Plotter.ino        # Arduino-программа (ниже)
+│  ├─ CO2_Plotter.ino        # Arduino-программа
+│  ├─ algoritm.jpg          # схема подключения
 ├─ docs/
 │  ├─ photos/                # фотографии устройства 
 │  └─ report.pdf             # основной отчет 
-├─ examples/
-│  └─ sample-data.csv        # пример экспортированных данных (если будете сохранять)
-└─ CONTRIBUTING.md
+│  
+└─ LICENSE                   # MIT license
 ```
 
 --- 
